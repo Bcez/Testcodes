@@ -11,6 +11,7 @@ def have_item(item_target):
 
 
 def welcome():
+  print("Hi Joel I wanted to say Hi 'eric'")
   print("     __________| |____")
   print("    /                 \\")
   print("   /     Welcome to    \\")
